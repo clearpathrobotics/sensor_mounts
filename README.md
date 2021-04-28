@@ -40,4 +40,4 @@ For example, this file:
 
 when used with Jackal will produce this robot model:
 
-![JackalExample](doc/jackal_example.png "A Jackal model using the URDF Extras from above")
+![JackalExample](doc/jackal-example.png "A Jackal model using the URDF Extras from above")
